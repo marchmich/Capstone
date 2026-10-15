@@ -127,7 +127,7 @@ All scripts used in this project are located in the **`scripts/`** folder in the
 
 The full written capstone report is available below:
 
-[Download capstone___Michelle_Marchesini-1.pdf](https://portfolios.cs.earlham.edu/wp-content/uploads/2025/09/capstone___Michelle_Marchesini-1.pdf)
+[Download capstone___Michelle_Marchesini-1.pdf]([https://portfolios.cs.earlham.edu/wp-content/uploads/2025/09/capstone___Michelle_Marchesini-1.pdf](https://portfolios.cs.earlham.edu/wp-content/uploads/2025/12/Michelle_Marchesini_Capstone.pdf))
 
 ---
 
